@@ -64,5 +64,16 @@
 - LinkedIn: https://www.linkedin.com/in/gangadhar-s18/
 
 ---
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GangadharS18&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GangadharS18&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GangadharS18&theme=github-dark)
+
+---
 
 ⭐ Thanks for visiting my profile!
